@@ -220,7 +220,6 @@ The script is quite robust and handles most variations, but the column name patt
 ## Binary Column Naming
 
 The script creates clean column names by:
-- Removing "Binary_" prefix (if present)
 - Converting spaces to underscores
 - Removing special characters like commas, parentheses, and slashes
 - Adding appropriate prefixes (Device_, Patient_, Outcome_)
